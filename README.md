@@ -1,4 +1,4 @@
-# 159234_Assignment2
+# 159234 Assignment2
 
 This assignment simulates a library data base given a library.txt file with the information formatted based on the category.
 Categories can be Book, Movie or Journal
